@@ -22,14 +22,17 @@ To add your work to this repo, feel free to submit the request or contact me at 
 
 
 ### Papers
-| Publication   | Paper                                                                                                                                                                            | Model Code                                |
-|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
-| **GRSL 2022** | [Remote Sensing Image Captioning Based on Multi-Layer Aggregated Transformer](https://ieeexplore.ieee.org/document/9709791) *Liu et al.*  | [MLAT](https://github.com/Chen-Yang-Liu/MLAT) 
-| **TGRS 2022** | [High-Resolution Remote Sensing Image Captioning Based on Structured Attention](https://ieeexplore.ieee.org/document/9400386) *Zhao et al.*| |
-| **TGRS 2022** | [A Novel SVM-Based Decoder for Remote Sensing Image Captioning](https://ieeexplore.ieee.org/document/9521989) *Hoxha et al.* | |
-| **GRSL 2022** | [Exploring Transformer and multi-label classification for remote sensing image captioning](https://ieeexplore.ieee.org/document/9855519) *Kandala et al.* | [[code]](https://github.com/hiteshK03/Remote-sensing-image-captioning-with-transformer-and-multilabel-classification)
-| **TGRS 2021** | [SD-RSIC: Summarization-Driven Deep Remote Sensing Image Captioning](https://ieeexplore.ieee.org/document/9239371) *Sumbull et al.* | [[code]](https://git.tu-berlin.de/rsim/SD-RSIC)<br/>
-| **TGRS 2017** | [Exploring Models and Data for Remote Sensing Image Caption Generation](https://ieeexplore.ieee.org/document/8240966) *Lu et al.*  |
-| **TGRS 2017** | [Can a Machine Generate Humanlike Language Descriptions for a Remote Sensing Image?](https://ieeexplore.ieee.org/document/7891049) *Shi et al.* |
-| **CITS 2016** | [Deep semantic understanding of high resolution remote sensing image](https://ieeexplore.ieee.org/abstract/document/7546397) *Qu et al.* |
+| Publication     | Paper                                                                                                                                                     | Code Repository                                                                                                            |
+|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| **GRSL 2022**   | [Remote Sensing Image Captioning Based on Multi-Layer Aggregated Transformer](https://ieeexplore.ieee.org/document/9709791) *Liu et al.*                  | [MLAT](https://github.com/Chen-Yang-Liu/MLAT)                                                                              
+| **TGRS 2022**   | [High-Resolution Remote Sensing Image Captioning Based on Structured Attention](https://ieeexplore.ieee.org/document/9400386) *Zhao et al.*               |                                                                                                                            |
+| **TGRS 2022**   | [A Novel SVM-Based Decoder for Remote Sensing Image Captioning](https://ieeexplore.ieee.org/document/9521989) *Hoxha et al.*                              |                                                                                                                            |
+| **IGARSS 2022** | [Capformer: Pure Transformer for Remote Sensing Image Caption](https://ieeexplore.ieee.org/document/9883199) *Wang et al.* | [Capformer](https://github.com/Junjue-Wang/CapFormer)                                                                      
+| **TGRS 2022**   | [Word-Sentence Framework for Remote Sensing Image Captioning](https://ieeexplore.ieee.org/document/9308980) *Wang et al.* | [[code]](https://github.com/hw2hwei/WordSent)
+| **RS   2022**   | [A Mask-Guided Transformer Network with Topic Token for Remote Sensing Image Captioning](https://www.mdpi.com/2072-4292/14/12/2939) *Ren et al.* | [[code]](https://github.com/Meditation0119/a-mask-guided-transformer-with-topic-token-for-remote-sensing-image-captioning) 
+| **GRSL 2022**   | [Exploring Transformer and multi-label classification for remote sensing image captioning](https://ieeexplore.ieee.org/document/9855519) *Kandala et al.* | [[code]](https://github.com/hiteshK03/Remote-sensing-image-captioning-with-transformer-and-multilabel-classification)      
+| **TGRS 2021**   | [SD-RSIC: Summarization-Driven Deep Remote Sensing Image Captioning](https://ieeexplore.ieee.org/document/9239371) *Sumbull et al.*                       | [[code]](https://git.tu-berlin.de/rsim/SD-RSIC)<br/>                                                                       
+| **TGRS 2017**   | [Exploring Models and Data for Remote Sensing Image Caption Generation](https://ieeexplore.ieee.org/document/8240966) *Lu et al.*                         |
+| **TGRS 2017**   | [Can a Machine Generate Humanlike Language Descriptions for a Remote Sensing Image?](https://ieeexplore.ieee.org/document/7891049) *Shi et al.*           |
+| **CITS 2016**   | [Deep semantic understanding of high resolution remote sensing image](https://ieeexplore.ieee.org/abstract/document/7546397) *Qu et al.*                  |
 
