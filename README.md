@@ -29,7 +29,7 @@ To add your work to this repo, feel free to submit the request or contact me at 
 | **TGRS 2022** | [A Novel SVM-Based Decoder for Remote Sensing Image Captioning](https://ieeexplore.ieee.org/document/9521989) *Hoxha et al.* | |
 | **GRSL 2022** | [Exploring Transformer and multi-label classification for remote sensing image captioning](https://ieeexplore.ieee.org/document/9855519) *Kandala et al.* | [[code]](https://github.com/hiteshK03/Remote-sensing-image-captioning-with-transformer-and-multilabel-classification)
 | **TGRS 2021** | [SD-RSIC: Summarization-Driven Deep Remote Sensing Image Captioning](https://ieeexplore.ieee.org/document/9239371) *Sumbull et al.* | [[code]](https://git.tu-berlin.de/rsim/SD-RSIC)<br/>
-| **TGRS 2017** | [Exploring Models and Data for Remote Sensing Image Caption Generation](https://ieeexplore.ieee.org/document/8240966) *lu et al.*  |
+| **TGRS 2017** | [Exploring Models and Data for Remote Sensing Image Caption Generation](https://ieeexplore.ieee.org/document/8240966) *Lu et al.*  |
 | **TGRS 2017** | [Can a Machine Generate Humanlike Language Descriptions for a Remote Sensing Image?](https://ieeexplore.ieee.org/document/7891049) *Shi et al.* |
 | **CITS 2016** | [Deep semantic understanding of high resolution remote sensing image](https://ieeexplore.ieee.org/abstract/document/7546397) *Qu et al.* |
 
